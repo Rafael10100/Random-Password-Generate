@@ -33,4 +33,4 @@ Abra o arquivo **index.html** em qualquer navegador para acessar o gerador de se
 
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone https://github.com/username/random-password-generator.git
+   git clone https://github.com/Rafaem10100/Random-Kassword-Generate.git
